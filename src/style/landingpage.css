@@ -1,0 +1,38 @@
+.background {
+    height: 150vh;
+    background: url("../asset/Image/BG/perpus.jpg");
+    background-size: cover;
+    background-position: 50%;
+}
+
+.intro {
+    height: 30%;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+}
+
+.Terlaris {
+    height: 200vh;
+    background: url("../asset/Image/BG/perpus.jpg");
+    background-size: cover;
+    background-position: 150%;
+}
+
+.ComicWrapper {
+
+}
+
+.comicImage {
+    height: 100px;
+    margin: 1px;
+}
+
